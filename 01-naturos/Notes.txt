@@ -1,0 +1,3 @@
+1. Executing sass code:  			
+  ->open sass folder path in cmd: C:\LENOVO STORAGE\SAI (G)\TECH_LRARN_G\TECH_MAHINDRA_LEARNINGS\UDEMY_COURSES\advanced-css-course-master\Udemy_HTML5_CSS3\01-naturos\sass
+  ->npm run compile:sass
